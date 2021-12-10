@@ -1,0 +1,228 @@
+.syonen-main-image {
+    background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg" );
+    background-size: cover;
+    background-position: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 650px;
+}
+
+.site-header {
+    display: flex;
+    flex-direction: row;
+}
+  
+.header-logo {
+   transition: opacity 0.2s;
+   width: 190px;
+   height: 20px;
+   padding-top: 0px;
+   margin-left: 20px;
+   margin-top: 2px;
+   position: relative;
+   left: 30px;
+   top: -25px;
+}
+
+.header-nav-item-outline {
+    display: block;  
+    text-decoration: none;
+    position: relative;
+    left: 200px;
+    top: -23px;
+    margin-right: -10px;
+    justify-content: space-between;
+}
+
+.jyodan {
+    transition: opacity 0.2s;
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    left: 170px;
+}
+
+.gedan {
+    transition: opacity 0.2s;
+    color: black;
+    font-size: 10px;
+    position: relative;
+    left: 180px;
+}
+
+.FirstViewContent__title {
+    position: relative;
+    top: -30px;
+    left: -300px;
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 54px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+    
+.maru1 {
+    position:relative;
+    top: -30px;
+    left: 130px;
+}
+
+.maru2 {
+    position: relative;
+    top: -220px;
+    left: 270px;
+}
+
+.maru3 {
+    position: relative;
+     top: -370px;
+    left: 540px;
+}
+
+.FirstViewContent__buttons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.counceling-button2 {
+    transition: opacity 0.2s;
+    display: inline-flex;
+    width: 120px;
+    background-color: #f79314;
+    color: white;
+    margin-right: 15px;
+    padding: 11px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 12px;
+    position: relative;
+    left: 70px;
+}
+
+.counceling-button {
+    transition: opacity 0.2s;
+    width: 250px;
+    background-color: #f79314;
+    color: white;
+    margin-right: 15px;
+    padding: 22px;
+    border-radius: 38px;
+    text-decoration: none;
+    font-size: 12px;
+    position: relative;
+    right: 300px;
+    top:-320px;
+}
+
+.counceling-button1 {
+　　transition: opacity 0.2s;
+    width: 100px;
+    background-color: white;
+    color: black;
+    margin: 100 100 100 100;
+    padding: 22px;
+    border-radius: 38px;
+    text-decoration: none;
+    font-size: 12px;
+    border: 1px solid;
+    border-color: #DDDDDD;
+    position: relative;
+    right: 280px;
+    top:-320px;
+}
+
+.setumei {
+    font-size: 12px;
+    color: #A2A2A4;
+    text-decoration: none;
+    position: relative;
+    top: -280px;
+    left: 180px;
+}
+
+.saport {
+    color: white;
+    background-color: #f79314;
+    max-width: 1140px;
+    padding-top: 20px;
+    padding-left: 180px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+    margin-top: -50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -210px;
+}
+
+.saport1 {
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 15px;
+    line-height: 26px;
+}
+
+.potepan2 {
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+.potepan3 {
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+
+
+@media screen and (min-width: 767px) { /*ウィンドウ幅が767px以上の場合に適用*/
+
+}
+
+
+
+@media screen and (max-width: 767px) { /*ウィンドウ幅が最大767pxまでの場合に適用*/
+.header-nav-item-outline {
+       display:none; /*非表示*/
+       width: auto;
+       float: none;
+.zentai {
+       max-width: 1000px;
+       width: 100%;
+       margin-left: auto;
+       margin-right: auto;
+}
+}
+}
+
+
+
+@media screen and (max-width: 479px) { /*ウィンドウ幅が最大479pxまでの場合に適用*/
+.header-nav-item-outline {
+       display:none; /*非表示*/
+       width: auto;
+       float: none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
