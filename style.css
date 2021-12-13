@@ -48,14 +48,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -104,12 +96,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -216,12 +203,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -277,12 +258,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -310,12 +285,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -372,14 +341,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -437,14 +398,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -497,14 +450,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -563,17 +508,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
-
 
 
 
@@ -645,15 +579,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
 
 
 
@@ -708,13 +633,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
 
 
 
@@ -771,13 +689,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
 
 
 
@@ -834,12 +745,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -911,12 +816,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -974,14 +873,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -1038,14 +929,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -1102,279 +985,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
-
-@media screen and (max-width: 1080px) {
-.HeaderNavListItem__link>span:last-child {
-    font-size: 12px;
-    margin-top: 10px;
-    color: #F79214;
-    letter-spacing: 2px;
-}
-}
-.HeaderNavListItem__link>span:last-child {
-    font-size: 10px;
-}
-.HeaderNavListItem__link>span {
-    display: block;
-    font-weight: 700;
-    text-align: center;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-a {
-    color: #333333;
-    text-decoration: none;
-}
-user agent stylesheet
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-}
-user agent stylesheet
-li {
-    text-align: -webkit-match-parent;
-}
-ul, ol {
-    list-style: none;
-}
-user agent stylesheet
-ul {
-    list-style-type: disc;
-}
-body {
-    color: #333333;
-    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-}
-body {
-    -webkit-font-smoothing: antialiased;
-}
-html {
-    -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
-@media screen and (max-width: 1080px) {
-.HeaderNavListItem {
-    margin-right: 0;
-}
-}
-@media screen and (min-width: 768px) {
-.HeaderNavListItem {
-    transition: opacity 0.2s;
-}
-}
-.HeaderNavListItem {
-    margin-right: 45px;
-}
-body, div, p, ul, ol, li, dl, dt, dd, table, th, td, img, figure, h1, h2, h3, h4, h5, h6, form, select {
-    margin: 0;
-    padding: 0;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-user agent stylesheet
-li {
-    display: list-item;
-    text-align: -webkit-match-parent;
-}
-ul, ol {
-    list-style: none;
-}
-user agent stylesheet
-ul {
-    list-style-type: disc;
-}
-body {
-    color: #333333;
-    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-}
-body {
-    -webkit-font-smoothing: antialiased;
-}
-html {
-    -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
-@media screen and (max-width: 1080px) {
-.HeaderNavListItem__link {
-    padding: 20px 0;
-}
-}
-.HeaderNavListItem__link {
-    display: block;
-}
-a {
-    color: #333333;
-    text-decoration: none;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-user agent stylesheet
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-}
-user agent stylesheet
-li {
-    text-align: -webkit-match-parent;
-}
-ul, ol {
-    list-style: none;
-}
-user agent stylesheet
-ul {
-    list-style-type: disc;
-}
-body {
-    color: #333333;
-    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-}
-body {
-    -webkit-font-smoothing: antialiased;
-}
-html {
-    -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
-
-@media screen and (max-width: 1080px) {
-.HeaderNavListItem__link>span:first-child {
-    font-size: 16px;
-    letter-spacing: 5px;
-    color: #fff;
-}
-}
-.HeaderNavListItem__link>span:first-child {
-    font-family: 'Lato', sans-serif;
-}
-.HeaderNavListItem__link>span {
-    display: block;
-    font-weight: 700;
-    text-align: center;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-a {
-    color: #333333;
-    text-decoration: none;
-}
-user agent stylesheet
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-}
-user agent stylesheet
-li {
-    text-align: -webkit-match-parent;
-}
-ul, ol {
-    list-style: none;
-}
-user agent stylesheet
-ul {
-    list-style-type: disc;
-}
-body {
-    color: #333333;
-    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-}
-body {
-    -webkit-font-smoothing: antialiased;
-}
-html {
-    -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -1446,12 +1056,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -1501,12 +1105,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -1571,12 +1169,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -1638,6 +1231,238 @@ html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 1080px) {
+.HeaderNavListItem__link>span:last-child {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #F79214;
+    letter-spacing: 2px;
+}
+}
+.HeaderNavListItem__link>span:last-child {
+    font-size: 10px;
+}
+.HeaderNavListItem__link>span {
+    display: block;
+    font-weight: 700;
+    text-align: center;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a {
+    color: #333333;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body {
+    color: #333333;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 1080px) {
+.HeaderNavListItem {
+    margin-right: 0;
+}
+}
+@media screen and (min-width: 768px) {
+.HeaderNavListItem {
+    transition: opacity 0.2s;
+}
+}
+.HeaderNavListItem {
+    margin-right: 45px;
+}
+body, div, p, ul, ol, li, dl, dt, dd, table, th, td, img, figure, h1, h2, h3, h4, h5, h6, form, select {
+    margin: 0;
+    padding: 0;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body {
+    color: #333333;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+
+@media screen and (max-width: 1080px) {
+.HeaderNavListItem__link {
+    padding: 20px 0;
+}
+}
+.HeaderNavListItem__link {
+    display: block;
+}
+a {
+    color: #333333;
+    text-decoration: none;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body {
+    color: #333333;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 1080px) {
+.HeaderNavListItem__link>span:first-child {
+    font-size: 16px;
+    letter-spacing: 5px;
+    color: #fff;
+}
+}
+.HeaderNavListItem__link>span:first-child {
+    font-family: 'Lato', sans-serif;
+}
+.HeaderNavListItem__link>span {
+    display: block;
+    font-weight: 700;
+    text-align: center;
+}
+*, *::before, *::after {
+    word-break: break-all;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a {
+    color: #333333;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+body {
+    color: #333333;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    -webkit-text-size-adjust: 100%;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -1710,14 +1535,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -1769,12 +1586,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -1838,12 +1649,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -1899,12 +1705,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -1975,13 +1775,6 @@ html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 }
 
 
@@ -2048,12 +1841,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -2136,12 +1924,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -2180,12 +1962,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -2238,12 +2014,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -2290,12 +2061,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -2351,12 +2117,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -2402,12 +2162,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -2466,14 +2221,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -2523,17 +2270,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
-
 
 
 
@@ -2573,12 +2309,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -2630,13 +2360,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
 
 
 
@@ -2685,14 +2408,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -2740,13 +2455,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
 
 
 
@@ -2791,14 +2499,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
 
 
 
@@ -2863,12 +2563,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -2948,13 +2642,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
 
 
 
@@ -3005,12 +2692,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -3048,12 +2729,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -3084,12 +2759,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -3147,12 +2816,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 .AboutWrapper {
@@ -3192,12 +2856,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -3240,12 +2899,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 .About__title {
@@ -3361,12 +3015,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -3423,12 +3071,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
 
 
 
@@ -3471,12 +3113,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -3547,16 +3183,6 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-
-
-
 
 
 .About__button {
@@ -3594,12 +3220,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -3654,12 +3275,6 @@ body {
 }
 html {
     -webkit-text-size-adjust: 100%;
-}
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
 }
 *, *::before, *::after {
     word-break: break-all;
@@ -3729,12 +3344,7 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
 
 
 
@@ -3794,9 +3404,4 @@ html {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-*, *::before, *::after {
-    word-break: break-all;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+
